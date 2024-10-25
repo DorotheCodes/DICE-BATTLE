@@ -8,10 +8,10 @@ DEMO 🌐
 Play Dice Duel live at: https://dice-battle-duel.netlify.app.
 
 FEATURES 🎲
-Turn-based Gameplay: Players take turns rolling the dice, building up their scores unless they roll a 1.
-First to 100 Wins: The game continues until one player reaches 100 points.
-Score Holding Option: Players can choose to hold their score and pass the turn.
-Stylish Interface: Enjoy a clean, comic-inspired interface with a responsive design.
+- Turn-based Gameplay: Players take turns rolling the dice, building up their scores unless they roll a 1.
+- First to 100 Wins: The game continues until one player reaches 100 points.
+- Score Holding Option: Players can choose to hold their score and pass the turn.
+- Stylish Interface: Enjoy a clean, comic-inspired interface with a responsive design.
 
 TECHNOLOGIES USED 💻
 HTML
